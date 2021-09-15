@@ -1,1 +1,1 @@
-haha readme.
+This is the repository for my ITDEV162 Class with Mark Cribb.

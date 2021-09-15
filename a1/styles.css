@@ -1,0 +1,24 @@
+html{
+    background-color: darkslategrey;
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+hr{
+    color:white;
+    font-style: oblique;
+}
+
+h2, h3{
+    color: lightblue;
+}
+
+p{
+    color:lightsalmon;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    size:13px;
+}
+
+head{
+    name: "Hello World";
+}
