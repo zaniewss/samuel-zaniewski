@@ -1,0 +1,7 @@
+/*H2 changing it to italics, html for the bg color*/
+h2{
+    font-style:oblique;
+}
+html{
+    background-color:aquamarine
+}
