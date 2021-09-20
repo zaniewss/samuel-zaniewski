@@ -1,0 +1,58 @@
+h3{
+    float:left;
+    color:lime;
+    background-color: darkslategray;
+    padding:2%;
+}
+
+h1{
+    color:deeppink;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: deepskyblue;
+    text-shadow:lightseagreen;
+    text-decoration: lightseagreen;
+}
+
+p{
+    float:left;
+    color:darkslateblue;
+    padding-right:20%;
+}
+
+html{
+    background-color:gray;
+    color:darkorange;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+.rightText{
+    justify-content: safe;
+    float:right;
+    word-wrap: normal;
+    padding:2%;
+}
+
+p.rightText{
+    padding-left:20%
+}
+
+.conclusion{
+    float:inline-end;
+    justify-self:space-evenly;
+    align-self:center;
+}
+
+a{
+    padding:.9%;
+    background-color: midnightblue;
+    color:white;
+    float:right;
+}
+
+a:hover{
+    background-color:green;
+    color:yellow;
+    padding:1%;
+    float:inline-end;
+}
