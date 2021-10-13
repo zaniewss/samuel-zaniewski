@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PsAdva7EJc8la827z9VxqqxbOzvpMSMRCk1DgDVplkII3AwF96dusemXDEhWy22DjxSbtmZA1rShj7IIUQ/1gQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\SAM\\GitHub\\samuel-zaniewski\\154-assignment 3\\154-3\\154-3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SAM\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.19\\microsoft.netcore.app.host.win-x64.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}
