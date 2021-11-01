@@ -78,3 +78,14 @@ th{
 td{
 	border:5px solid black;
 }
+
+.javapic{
+	height:50%;
+	width:50%;
+}
+
+.goals{
+	float:left;
+	padding: 15px;
+	align-items: flex-end;
+}
