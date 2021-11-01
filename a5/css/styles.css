@@ -1,0 +1,113 @@
+body{
+	background-color: #7E7E7E;
+	font-family: 'Ceviche One', cursive;
+	font-size: 16px;
+}
+
+h1{
+	font-family: 'Ceviche One', cursive;
+	font-size:xx-large;
+	color: black;
+}
+ul li{
+	color: yellow;
+	list-style-type: initial;
+	line-height: 1.8;
+}
+
+ul li a{
+	color: #59FA14;
+	text-decoration: none;
+}
+
+ul li a:hover{
+	color:white;
+	background:gray;
+}
+
+p2{
+	background: #666;
+	color: white;
+	padding: 10px 0px;
+}
+
+logo img{
+	display: list-item;
+}
+
+/*This part below is what makes the buttons! */
+div ul li{
+	background: black;
+	color: white;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	font-family: comic sans ms;
+}
+
+.duh ol li{
+	color:#00FFEC;
+	padding:5px 15px;
+	font-family: Helvetica;
+	list-style-type: none;
+}
+
+.duh ol li a{
+	text-decoration: none;
+	color: #00FFEC;
+}
+
+.duh ol li a:hover{
+	background: black;
+	color:white;
+}
+
+bsi img{
+		width: 200px;
+		height: 300px;
+		text-align: center;
+}
+
+extrabuttons.ul li{
+	color:red;
+	background:gray;
+	display: inline-block;
+	list-style-type: none;
+	padding: 5px 15px;
+	font-family: comic sans ms;
+}
+
+extrabuttons.p4{
+	color:white;
+	font-family: comic sans ms;
+	background:#666;
+	padding: 5px 15px;
+	display: inline-block;
+}
+
+p3{
+	color:#59FA14;
+	font-size:17px;
+}
+
+
+.top5 ol li a{
+	color:lightgreen;
+	list-style-type: circle;
+	text-decoration: none;
+	font-size: 20px;
+}
+
+hr{
+	color:orangered;
+}
+
+@font-face {
+  font-family: 'Ceviche One';
+  font-style: normal;
+  font-weight: 100;
+  size: 20px;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/cevicheone/v11/gyB4hws1IcA6JzR-GB_JX5zabYo.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
